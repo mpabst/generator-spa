@@ -1,0 +1,22 @@
+{
+  "name": "@uncodar/generator-spa",
+  "version": "0.1.0",
+  "description": "Yeoman generator for my preferred single-page app setup",
+  "license": "MIT",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "babel",
+    "parcel",
+    "react",
+    "redux",
+    "redux-saga",
+    "typescript"
+  ],
+  "dependencies": {
+    "generator-npm-init": "^1.5.0",
+    "yeoman-generator": "^1.0.0"
+  }
+}
