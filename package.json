@@ -3,17 +3,20 @@
   "version": "0.1.0",
   "description": "Yeoman generator for my preferred single-page app setup",
   "license": "MIT",
+  "repository": "https://github.com/mpabst/generator-spa",
   "files": [
     "generators"
   ],
   "keywords": [
-    "yeoman-generator",
     "babel",
+    "connected-react-router",
     "parcel",
+    "react-router",
     "react",
-    "redux",
     "redux-saga",
-    "typescript"
+    "redux",
+    "typescript",
+    "yeoman-generator"
   ],
   "dependencies": {
     "generator-npm-init": "^1.5.0",
